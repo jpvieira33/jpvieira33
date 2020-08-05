@@ -1,16 +1,15 @@
-### Hi there 👋
+# João Paulo Vieira
 
-<!--
-**jpvieira33/jpvieira33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá Pessoal 👋
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e em resolver problemas através da propgramação.
+Sou um FullStack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 Estou estudando as ferramentas mais atuais do mercado ultimamente e participando de treinamentos com projetos reais.
+- 🌱 Estou buscando colaborar com projetos FrontEnd usando React e no Backend usando Node ou PHP.
+- 🤔 Posso te ajudar com CSS Grid, Flebxox Ou Bootstrap
+- 💬 Curto tecnologias, games e seriados.
+- 📫 Entre em contato comigo: Linkedin: https://www.linkedin.com/in/jo%C3%A3o-paulo-vieira-0a838412a/
+- ⚡  Minha stacks: ReactJS, NodeJs, PHP, Javascript
 -->
