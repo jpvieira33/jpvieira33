@@ -2,7 +2,7 @@
 
 ## Olá Pessoal 👋
 
-Sou apaixonado por tecnologia e em resolver problemas através da propgramação.
+Sou apaixonado por tecnologia e em resolver problemas através da programação.
 Sou um FullStack developer
 
 
